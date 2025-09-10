@@ -39,7 +39,12 @@
          2 Improved descision making for ad and budget allocation based on channel ROI.
 
          3.Enabled faster report and performance for stakeholders. 
-         
+
+ 🖼️ Screenshoot:
+
+  Snapshot of the dashboard: https://github.com/pavik15-ops/Power-Bi/blob/main/Power%20BI%20Snapshoot%20(2).png
+
+  
       
       
     
