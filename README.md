@@ -44,6 +44,8 @@
 
   Snapshot of the dashboard: https://github.com/pavik15-ops/Power-Bi/blob/main/Power%20BI%20Snapshoot%20(2).png
 
+  https://github.com/pavik15-ops/Power-Bi/blob/main/Power%20BI%20Snapshoot.png
+
   
       
       
