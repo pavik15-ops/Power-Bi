@@ -24,21 +24,21 @@
 
   ⚫ Key Visuals:
 
-  1. Slicer: Easily switched between Facebook, Instagram, Twitter,etc.
+     1. Slicer: Easily switched between Facebook, Instagram, Twitter,etc.
         
-   2. Date range slicer: Analyze engagement trend for dpecific time period.
+     2. Date range slicer: Analyze engagement trend for dpecific time period.
 
-   3. KPI's: Highlights the no of likes/clicks, impressions and many more. 
+     3. KPI's: Highlights the no of likes/clicks, impressions and many more. 
 
-   4. Charts: Area chart to observe CTR over Month.
+     4. Charts: Area chart to observe CTR over Month.
 
   ⚫ Business Impact:
 
-  1.Helped identify top performing channels.
+    1.Helped identify top performing channels.
 
-   2.Improved descision making for ad and budget allocation based on channel ROI.
+    2.Improved descision making for ad and budget allocation based on channel ROI.
 
-   3.Enabled faster report and performance for stakeholders. 
+    3.Enabled faster report and performance for stakeholders. 
 
  5.🖼️ Screenshoot:
 
