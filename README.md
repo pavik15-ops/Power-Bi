@@ -1,6 +1,6 @@
 # 📊  Social Media Analysis
 
-  1.Social Media Analysis - Tracking Engagement & Channel Performance
+  1. Social Media Analysis - Tracking Engagement & Channel Performance
    
    A dynamic , interactive data visulization tool built to explore  Social Media Analysis.
    
@@ -34,9 +34,9 @@
 
   ⚫ Business Impact:
 
-   1. Helped identify top performing channels.
+  1.Helped identify top performing channels.
 
-   2 Improved descision making for ad and budget allocation based on channel ROI.
+   2.Improved descision making for ad and budget allocation based on channel ROI.
 
    3.Enabled faster report and performance for stakeholders. 
 
